@@ -1,13 +1,13 @@
-# Course Name
-## Professor : Full Name of Professor/s
+# Introduction to Linguistics 1 
+## Professor : Aditi Mukherjee
 
-Credits : x
+Credits : 4
 
-Lectures : x
+Lectures : 3
 
-Tutorial : x
+Tutorial : 1
 
-Practical : x
+Practical : 0
 
 <!---
 #### Grading Scheme
